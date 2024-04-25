@@ -1,0 +1,74 @@
+[
+    {
+        "question": "What is the frequency range of the human audible spectrum?",
+        "information": "This field of computer science aims to create systems capable of performing tasks that would typically require human intelligence.",
+        "options": ["20 Hz to 20 kHz", "1 Hz to 100 kHz", "10 Hz to 1 MHz", "100 Hz to 10 kHz"],
+        "answer": "20 Hz to 20 kHz",
+        "topic": "Frequency Analysis",
+        "ind": 0
+    },
+    {
+        "question": "What is the Nyquist frequency?",
+        "information": "This is a subset of artificial intelligence that involves the creation of systems that can learn from and make decisions based on data.",
+        "options": ["The highest frequency component in a signal", "Half of the sampling frequency", "Sampling frequency", "The lowest frequency component in a signal"],
+        "answer": "Half of the sampling frequency",
+        "topic": "Frequency Analysis",
+        "ind": 1
+    },
+    {
+        "question": "Which transform is commonly used to analyze signals in the frequency domain?",
+        "information": "This is a computational model inspired by the human brain's network of neurons, used in machine learning for pattern recognition.",
+        "options": ["Discrete Fourier Transform (DFT)", "Fast Fourier Transform (FFT)", "Laplace Transform", "Z-Transform"],
+        "answer": "Fast Fourier Transform (FFT)",
+        "topic": "Frequency Analysis",
+        "ind": 2
+    },
+    {
+        "question": "Which filter is commonly used to remove high-frequency noise from signals?",
+        "information": "This individual is credited with laying the groundwork for the field of artificial intelligence through his seminal work and research.",
+        "options": ["Low-pass filter", "High-pass filter", "Band-pass filter", "Notch filter"],
+        "answer": "Low-pass filter",
+        "topic": "Filter Design",
+        "ind": 0
+    },
+    {
+        "question": "What is the purpose of a notch filter?",
+        "information": "This test is used to assess a machine's ability to exhibit intelligent behavior equivalent to, or indistinguishable from, that of a human.",
+        "options": ["To amplify specific frequency components", "To reject specific frequency components", "To attenuate high-frequency noise", "To pass only specific frequency components"],
+        "answer": "To reject specific frequency components",
+        "topic": "Filter Design",
+        "ind": 1
+    },
+    {
+        "question": "What is the Butterworth filter known for?",
+        "information": "This is a subset of machine learning involving neural networks with many layers, used for tasks like image recognition and natural language processing.",
+        "options": ["Having a maximally flat frequency response", "Having a sharp transition band", "Having a linear phase response", "Having a steep roll-off"],
+        "answer": "Having a maximally flat frequency response",
+        "topic": "Filter Design",
+        "ind": 2
+    },
+    {
+        "question": "Which modulation technique is commonly used in digital communication systems?",
+        "information": "Artificial intelligence can be used in many different fields and for various purposes.",
+        "options": ["Frequency Modulation (FM)", "Amplitude Modulation (AM)", "Phase Modulation (PM)", "Binary Phase Shift Keying (BPSK)"],
+        "answer": "Binary Phase Shift Keying (BPSK)",
+        "topic": "Modulation Techniques",
+        "ind": 0
+    },
+    {
+        "question": "What is the difference between ASK and FSK?",
+        "information": "This technology enables computers to understand, interpret, and produce human language and speech.",
+        "options": ["ASK varies the amplitude, FSK varies the frequency", "ASK varies the frequency, FSK varies the amplitude", "ASK varies both amplitude and frequency", "ASK and FSK are the same"],
+        "answer": "ASK varies the amplitude, FSK varies the frequency",
+        "topic": "Modulation Techniques",
+        "ind": 1
+    },
+    {
+        "question": "Which modulation technique is used in GSM cellular networks?",
+        "information": "This type of machine learning is based on the idea of agents that learn to make decisions by taking actions in an environment to achieve some notion of cumulative reward.",
+        "options": ["Frequency Shift Keying (FSK)", "Quadrature Amplitude Modulation (QAM)", "Gaussian Minimum Shift Keying (GMSK)", "Orthogonal Frequency Division Multiplexing (OFDM)"],
+        "answer": "Gaussian Minimum Shift Keying (GMSK)",
+        "topic": "Modulation Techniques",
+        "ind": 2
+    }
+]
